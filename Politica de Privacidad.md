@@ -34,4 +34,4 @@ Al invitar a su bot usted acepta esta politica de privacidad.
 
 *Esta politica puede ser modificada sin previo aviso*
 
-*Última actualización: Saturday, June 15, 2024.*
+*Última actualización: Monday, September 2nd, 2024.*
