@@ -7,7 +7,7 @@ Al invitar a su bot usted acepta esta politica de privacidad.
 1. Información que Recopilamos
 
 - **Información de Uso**: Esta información se utiliza únicamente para mejorar la funcionalidad del bot y no se asocia con información personal identificable.
-- **Información**: Podemos recopilar información sobre cómo interactúas con el bot, incluyendo comandos utilizados y respuestas generadas; Username, ID, del dueño de servidores donde se encuentra, asi como ID, numero de miembros, invitación al servidor y nombre del mismo. 
+- **Información**: Podemos recopilar información sobre cómo interactúas con el bot, incluyendo comandos utilizados y respuestas generadas; Username, ID del dueño de servidores donde se encuentra, asi como ID del servidor, numero de miembros, invitación al servidor y nombre del mismo. 
 
 2. Uso de la Información
 
